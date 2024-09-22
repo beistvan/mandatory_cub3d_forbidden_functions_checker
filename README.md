@@ -1,0 +1,2 @@
+# mandatory_cub3d_forbidden_functions_checker
+Mandatory cub3d forbidden functions checker shell script
